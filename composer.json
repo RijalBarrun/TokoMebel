@@ -9,13 +9,16 @@
     "license": "MIT",
     "require": {
         "php": "^7.2",
+        "darryldecode/cart": "^4.2",
         "doctrine/dbal": "^2.10",
         "fideloper/proxy": "^4.0",
+        "guzzlehttp/guzzle": "^7.3",
         "laracasts/flash": "^3.2",
         "laravel/framework": "^6.0",
         "laravel/tinker": "^1.0",
         "laravel/ui": "^1.1",
         "laravelcollective/html": "^6.2",
+        "midtrans/midtrans-php": "^2.3",
         "spatie/laravel-permission": "^4.0"
     },
     "require-dev": {
